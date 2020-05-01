@@ -1,0 +1,4 @@
+#Fri May 01 08:57:40 GFT 2020
+base.0=C\:\\Users\\samue\\curso-react-native\\mines\\android\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
